@@ -3,10 +3,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
         "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.0.9",
-        "pxt-wappsto": "github:wappsto/pxt-wappsto#v1.0.8"
+        "pxt-wappsto": "github:wappsto/pxt-wappsto#v1.0.8",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.0"
     },
     "files": [
         "main.blocks",
